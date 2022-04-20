@@ -6,3 +6,7 @@ body {
 	background-image: url(https://wlmf0922.github.io/Twine-1/images/sea2.jpg);
 	background-repeat: no-repeat;
 }
+
+h1 {
+	font-size: 32;
+}
